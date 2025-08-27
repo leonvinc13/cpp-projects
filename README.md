@@ -9,9 +9,7 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 - primjeri klasa i objekata.
 
 - konstruktori, destruktori i pristupni modifikatori.
-
 ---
-
 **📂 2. OOP core**
 
 - enkapsulacija.
@@ -19,9 +17,7 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 - imenovani prostor (namespace).
 
 - semantika kopiranja i prijenosa.
-
-
-
+---
 **📂 3. OOP essentials**
 
 - prijatelji (friend).
@@ -29,8 +25,7 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 - statički i dinamički članovi.
 
 - iznimke i operatori.
-
-
+---
 **📂 4. Inheritance & Polymorphism**
 
 - nasljeđivanje klasa.
@@ -38,8 +33,7 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 - virtualne funkcije i polimorfizam.
 
 - override metoda i rad s baznim pokazivačima.
-
-
+---
 **📂 5. Generic programming**
 
 - predlošci (templates) funkcija i klasa.
