@@ -4,46 +4,46 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 
 **📂 1. Introduction to OOP**
 
--osnove OOP-a.
+- osnove OOP-a.
 
--primjeri klasa i objekata.
+- primjeri klasa i objekata.
 
--konstruktori, destruktori i pristupni modifikatori.
+- konstruktori, destruktori i pristupni modifikatori.
 
 
 
 **📂 2. OOP core**
 
--enkapsulacija.
+- enkapsulacija.
 
--imenovani prostor(namespace).
+- imenovani prostor(namespace).
 
--semantika kopiranja i prijenosa.
+- semantika kopiranja i prijenosa.
 
 
 
 **📂 3. OOP essentials**
 
--prijatelji(friend).
+- prijatelji(friend).
 
--statički i dinamički članovi.
+- statički i dinamički članovi.
 
--iznimke i operatori.
+- iznimke i operatori.
 
 
 **📂 4. Inheritance & Polymorphism**
 
--nasljeđivanje klasa.
+- nasljeđivanje klasa.
 
--virtualne funkcije i polimorfizam.
+- virtualne funkcije i polimorfizam.
 
--override metoda i rad s baznim pokazivačima.
+- override metoda i rad s baznim pokazivačima.
 
 
 **📂 5. Generic programming**
 
--predlošci (templates) funkcija i klasa.
+- predlošci (templates) funkcija i klasa.
 
--funkcijski objekti (funktori).
+- funkcijski objekti (funktori).
 
--lambda funkcije i njihova primjena sa STL algoritmima.
+- lambda funkcije i njihova primjena sa STL algoritmima.
