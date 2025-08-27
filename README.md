@@ -10,13 +10,13 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 
 - konstruktori, destruktori i pristupni modifikatori.
 
-
+---
 
 **📂 2. OOP core**
 
 - enkapsulacija.
 
-- imenovani prostor(namespace).
+- imenovani prostor (namespace).
 
 - semantika kopiranja i prijenosa.
 
@@ -24,7 +24,7 @@ Ovaj repozitorij sadrži 5 mapa, svaka pokriva određeni dio učenja objektno or
 
 **📂 3. OOP essentials**
 
-- prijatelji(friend).
+- prijatelji (friend).
 
 - statički i dinamički članovi.
 
